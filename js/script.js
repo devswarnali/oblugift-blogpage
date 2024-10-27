@@ -33,7 +33,6 @@ $(function () {
 // add class
 
 $('.navbar-toggler').on('click', function(){
-  // $('.my_heading').addClass('red_text');
   $('body').toggleClass('overflow-hidden');
 })
   
