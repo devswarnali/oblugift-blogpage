@@ -1,2 +1,1 @@
-
-it's a ecommerce blog page and details page.
+it's a ecommerce blog and blog details page.
